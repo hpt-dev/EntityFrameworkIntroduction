@@ -1,4 +1,4 @@
-# EntityFrameworkIntroduction
+# Entity Framework - Setup, Code First Migrations and Database Creation with .NET 6
 This contains the project from part 1 of my entity framework playlist. To follow along here is the video:
 
 https://www.youtube.com/watch?v=A4tpHy__LN0&t=917s
